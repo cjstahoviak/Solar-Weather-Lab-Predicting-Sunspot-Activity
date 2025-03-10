@@ -1,0 +1,14 @@
+name: Solar-Weather-Lab-Predicting-Sunspot-Activity
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - requests
+  - matplotlib
+  - pytorch
+  - scikit-learn
+  - ipykernel

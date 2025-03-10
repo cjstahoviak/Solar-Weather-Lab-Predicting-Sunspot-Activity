@@ -63,8 +63,5 @@ You will implement and compare the following models:
 ---
 
 ### **Deliverables**
-- Notebook with code and explanations.
-- Report summarizing findings and insights, include visualizations comparing model predictions.
-
----
-
+- Notebook with code and explanations. See `notesbooks/predicting_subspot_activity.ipynb`
+- Report summarizing findings and insights, include visualizations comparing model predictions. See `reports/`
