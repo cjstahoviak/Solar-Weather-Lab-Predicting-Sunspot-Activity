@@ -12,3 +12,6 @@ dependencies:
   - pytorch
   - scikit-learn
   - ipykernel
+  - "cudatoolkit>=11.8"
+  - pip:
+    - mambapy 

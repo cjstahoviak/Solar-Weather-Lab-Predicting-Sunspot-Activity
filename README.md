@@ -64,4 +64,7 @@ You will implement and compare the following models:
 
 ### **Deliverables**
 - Notebook with code and explanations. See `notesbooks/predicting_subspot_activity.ipynb`
-- Report summarizing findings and insights, include visualizations comparing model predictions. See `reports/`
+- Report summarizing findings and insights, include visualizations comparing model predictions. See `reports/Solar_Weather_Lab__Predicting_Sunspot_Activity.pdf`
+
+### **Setup**
+Please use the conda environment defined in `./environment.yml` when running all scripts.
